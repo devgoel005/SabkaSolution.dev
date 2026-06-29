@@ -1,0 +1,6 @@
+{
+  "name": "SabkaSolution",
+  "description": "Hyperlocal Community Issue Resolver for India — Apni Awaaz, Apna Haq",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
